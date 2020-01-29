@@ -6,6 +6,12 @@
     <groupId>com.example</groupId>
     <artifactId>myproject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <groupId>com.charter</groupId>
+	<artifactId>adsWeblogic</artifactId>
+	<!-- <version>0.0.1-SNAPSHOT</version> -->
+	<packaging>war</packaging>
+	<name>adsWeblogic</name>
+	<description>Demo project for Spring Boot</descriptio	
 
     <parent>
         <groupId>org.springframework.boot</groupId>
