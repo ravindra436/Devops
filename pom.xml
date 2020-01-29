@@ -6,7 +6,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>myproject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <groupId>com.charter</groupId>
+    <groupId>org.springframework.boot</groupId>
 	<artifactId>adsWeblogic</artifactId>
 	<!-- <version>0.0.1-SNAPSHOT</version> -->
 	<packaging>war</packaging>
